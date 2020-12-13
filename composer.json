@@ -1,0 +1,8 @@
+{
+    "name": "juan-ma/juan-ma",
+    "description": "Proyecto IA",
+    "require": {
+        "fideloper/proxy": "4.0",
+        "thiagoalessio/tesseract_ocr": "^2.9"
+    }
+}
