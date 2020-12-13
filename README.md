@@ -1,2 +1,2 @@
 # proyecto-ia
-Proyecto para la clase de inteligencia artificial (Reconcomiendo de imágenes para pase de lista)
+Proyecto para la clase de inteligencia artificial (Reconocimiento de imágenes para pase de lista)
